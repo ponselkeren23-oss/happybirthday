@@ -27,9 +27,9 @@
 
 const CONFIG = {
   // ── Recipient Info ────────────────────────────────────────────
-  name: "Irene",
-  photo: "./img/irene.jpg",       // Place your photo in the img/ folder
-  music: "./music/hbd.mpeg",      // Place your music in the music/ folder
+  name: "shinta",
+  photo: "./img/puput.jpeg",       // Place your photo in the img/ folder
+  music: "./music/akuu.mp3",      // Place your music in the music/ folder
 
   // ── Theme Colors ──────────────────────────────────────────────
   // A toggle button lets the viewer switch between dark & light mode.
@@ -56,7 +56,7 @@ const CONFIG = {
     {
       type: "greeting",
       title: "Hi",
-      subtitle: "I really like your name btw!",
+      subtitle: "Aku suka banget sama nama kamu!",
     },
     {
       type: "countdown",
@@ -70,24 +70,24 @@ const CONFIG = {
     {
       type: "chatbox",
       message:
-        "Happy birthday to youu!! Wishing you a wonderful year ahead filled with joy, love, and endless happiness!",
+        "Selamat ulang tahun sayang aku! Semoga panjang umur dan sehat selalu yaaa, semoga kamu bisa lebih bahagia lagi kedepan nya, i love u",
       buttonText: "Send",
     },
     {
       type: "ideas",
       lines: [
-        "That's what I was going to do.",
-        "But then I stopped.",
-        "I realised, I wanted to do something <strong>special</strong>.",
-        "Because,",
-        "You are Special <span>:)</span>",
+        "aku cuman bisa bikin kaya gini buat kamu.",
+        "Aku harap kamu suka.",
+        "Aku tau ga seberapa tapi aku pengen bikin ini buat kamu yang <strong>special</strong>.",
+        "Karenaaa,",
+        "Kamu special di aku <span>:)</span>",
       ],
       bigLetters: "SO",
     },
     {
       type: "quote",
-      text: "The more you praise and celebrate your life, the more there is in life to celebrate.",
-      author: "Oprah Winfrey",
+      text: "Dihari bahagiamu, aku cuma bisa bilang, semoga kamu selalu bahagia dan sehat selalu yaa sayangg",
+      author: "gata",
     },
     {
       type: "stars",
@@ -100,7 +100,7 @@ const CONFIG = {
     {
       type: "profile",
       wishTitle: "Happy Birthday!",
-      wishText: "May the js.prototypes always be with you! ;)",
+      wishText: "Aku harappp kamu seneng aku buatin ini! ;)",
     },
     {
       type: "fireworks",
@@ -112,8 +112,8 @@ const CONFIG = {
     },
     {
       type: "closing",
-      text: "Okay, now come back and tell me if you liked it.",
-      replayText: "Or click, if you want to watch it again.",
+      text: "makasihh udah di liat yaa sayang, kalo suka langsung kabarin aku yaa.",
+      replayText: "atau kamu mau liat lagi?.",
     },
   ],
 };
